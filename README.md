@@ -1,7 +1,8 @@
 # Diabetes Prediction System Using Machine Learning
 
-![Diabetes Prediction System](https://drive.google.com/file/d/1MswFq8HniIRQAo0Xyy2OmGrCc5B_WeWl/view) 
-![Diabetes Prediction System](https://drive.google.com/file/d/1lv2RiUq97lLeliyAn9naG-EQRYbW_6G9/view) 
+![Diabetic](https://github.com/AbhishekJoshi236/Diabetes-Prediction-System-Using-ML/assets/90817430/7b4e53a7-78cc-4a86-8187-6918d7b0c837)
+![Non Diabetic](https://github.com/AbhishekJoshi236/Diabetes-Prediction-System-Using-ML/assets/90817430/b369550d-62c9-48b0-a6b9-7724ed3d5694)
+
 
 ## About
 
